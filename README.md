@@ -7,7 +7,7 @@
 ```
 wsl --shutdown
 ```
-###### Try to run Docker Desktop again. If this problem not solved try this
+###### Try to run Docker Desktop again. Try this If this problem doesn't solve
 #### Command Prompt
 ```
 wsl --status
